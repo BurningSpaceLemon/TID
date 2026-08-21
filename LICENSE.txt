@@ -1,0 +1,4 @@
+TID Personal Use License
+Copyright (c) 2026 Nils B.
+
+This software is provided for the personal use of the copyright holder. Redistribution, resale, or publication as a third-party product requires prior permission.
