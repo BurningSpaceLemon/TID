@@ -11,7 +11,7 @@ Vollständige statische Progressive Web App für GitHub Pages. Alle Arbeitszeitd
 5. Branch `main` und Ordner `/(root)` auswählen und speichern.
 6. Nach dem Deployment die von GitHub angezeigte HTTPS-Adresse öffnen.
 
-Die relativen Pfade funktionieren sowohl auf einer Benutzerseite als auch in einem Projekt-Unterordner wie `https://name.github.io/tid/`.
+Die relativen Pfade funktionieren sowohl auf einer Benutzerseite als auch in einem Projekt-Unterordner wie `https://burningspacelemon.github.io/tid/`.
 
 ## Auf dem iPhone installieren
 
