@@ -1,4 +1,4 @@
-const APP_VERSION = '0.2.1';
+const APP_VERSION = '0.4.0';
 const CACHE_NAME = `tid-app-${APP_VERSION}`;
 const CORE = [
   './',
